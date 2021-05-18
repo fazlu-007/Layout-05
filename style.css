@@ -1,0 +1,99 @@
+*{
+    margin: 0%;
+}
+.body{
+    text-align: center;
+}
+.head{
+background-color: royalblue;
+width: 100%;
+height: 70px;
+text-align: center;
+overflow: hidden;
+}
+.manu{
+background-color: white;
+width: 100%;
+height: 50px;
+text-align: center;
+overflow: hidden;
+
+}
+.section_1{
+    background-color: yellow;
+    width: 70%;
+    height: 500px;
+    text-align: center;
+    float: left;
+    overflow: hidden;
+}
+.section_2{
+    background-color:grey;
+    width: 30%;
+    height: 500px;
+    text-align: center;
+    float: left;
+    overflow: hidden;
+}
+.head_1{
+background: indigo;
+width: 100%;
+height: 50px;
+overflow: hidden;
+}
+.art{
+background-color: lightcoral;
+width: 100%;
+height: 412px;
+overflow: hidden;
+
+}
+.head_5{
+background-color: mediumspringgreen;
+width: 100%;
+height: 85px;
+}
+.para{
+background-color: red;
+width: 100%;
+height: 85px;
+text-align: center;
+}
+.para_1{
+background-color: skyblue;
+width: 50%;
+height:120px;
+float: left;
+text-align: center;
+}
+.asi{
+    width: 50%;
+    height:120px;
+    background-color: yellowgreen;
+float: left;
+    text-align: center;
+}
+
+.fot{
+background-color: yellow;
+width: 100%;
+height:50px;
+text-align: center;
+}
+
+
+
+.head_4{
+background-color: red;
+width: 100%;
+height: 50px;
+overflow: hidden;
+}
+.nav{
+background-color: magenta;
+width: 100%;
+height: 414px;
+}
+.fot_1{
+text-align: center;
+}
